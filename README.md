@@ -1,5 +1,5 @@
 ## Bot Auto Login Facebook
 
-### Projek Ujian Akhis Semester Algoritma Pemrograman
+### Projek Ujian Akhir Semester Mata Kuliah Algoritma Pemrograman
 
 
