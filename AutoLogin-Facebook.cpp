@@ -1,4 +1,13 @@
+#include <windows.h>
+#include <iostream>
 
+void sendKeyDown(unsigned char keyCode) 
+{
+    INPUT input;
+    input.type = INPUT_KEYBOARD;
+
+    input.ki.wVk = keyCode;
+    input.ki.dwFlags = 0;
     input.ki.time = 0;
     input.ki.dwExtraInfo = 0;
 
